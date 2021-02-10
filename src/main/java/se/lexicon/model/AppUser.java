@@ -3,6 +3,10 @@ package se.lexicon.model;
 import java.io.Serializable;
 
 public class AppUser implements Serializable {
+
+    //private static final long serialVersionUID = 1L;
+
+
     // static fields should not be serialized
     private static final String NO_EMAIL = "No email set";
     private static final String NO_NAME = "Anonymous";
