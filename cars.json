@@ -1,0 +1,13 @@
+[ {
+  "carId" : "957fd0d8-5e7c-4387-99cf-8c26ce92694a",
+  "regNumber" : "ABC123",
+  "brand" : "VOLVO",
+  "model" : "XC40",
+  "regDate" : "2020-02-27"
+}, {
+  "carId" : "958ee6ef-3e66-4dda-bbb9-9d2d94ebd8d3",
+  "regNumber" : "TTB666",
+  "brand" : "BMW",
+  "model" : "x6",
+  "regDate" : "2020-01-21"
+} ]
